@@ -8,7 +8,7 @@ This build of the agent disables the network filter in order to avoid the networ
 
 Once this new package version is installed, go to 'System Settings' - 'Network' - 'Filters'
 Note: 'Filters' may also be named 'VPN and Filters'
-...and make sure the 'Uptycs Protect' is disabled. 
+...and make sure the 'Uptycs Protect' filter is disabled. 
 
-
+If you are installing this agent for the first time on a machine make sure to download the flags and secret and apply them per the Uptycs documentation. 
 
