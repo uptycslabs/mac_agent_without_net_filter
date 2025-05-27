@@ -1,5 +1,5 @@
 # mac_agent_without_net_filter
-The Uptycs agent for Mac (Protect and Non Protect versions) without the auto network filter. 
+The Uptycs agent for Mac (Protect and Non Protect versions) without the automatic network filter. 
 
 In May 2025 it was reported that the Uptycs network filter on Mac would cause occasional network outages (during web meetings for example). 
 The standard Uptycs Mac agent automatically deploys and enables a network filter (which caused the occasional network outage). 
